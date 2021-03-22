@@ -5,8 +5,7 @@ from datetime import datetime
 import pandas as pd
 import numpy as np
 import requests
-from fbphet import Prophet
-
+from Propeht 
 
 # 야후금융에서 주식정보를 제공하는 라이브러리 yfinance 이용
 #  주식정보를 불러오고 차트 그리는거 합니다.
